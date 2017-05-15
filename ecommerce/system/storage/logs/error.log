@@ -1,0 +1,1 @@
+2017-05-15 17:16:53 - PHP Warning:  fsockopen(): unable to connect to mail.alianzacapitales.com:110 (Connection timed out) in /var/www/vhosts/somoslentes.com/httpdocs/opencart/ecommerce/system/library/mail.php on line 167
